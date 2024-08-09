@@ -33,5 +33,4 @@ int main() {
     printf("Rotated array: ");
     printArray(arr, n);
     return 0;
-    
 }
